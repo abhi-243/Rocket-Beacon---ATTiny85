@@ -23,6 +23,16 @@ This project uses an ATTiny85 microcontroller to transmit a repeating message in
 
 ---
 
+## 📐 Diagrams  
+
+### Breadboard View  
+![Breadboard Diagram](breadboard.png)  
+
+### Schematic View  
+![Schematic Diagram](schematic.png)  
+
+---
+
 ## 🔁 How It Works
 
 1. The `sendmsg()` function encodes the input message into Morse code.
